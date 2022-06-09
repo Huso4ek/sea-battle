@@ -1,1 +1,1 @@
-# sea-battle
+It was so challenging task, I tried to do it myself, but spaces in my knowledges didn't allow me to complete this mission. Then I watched a webinar by Egor, after all I coded, as it was in his examples.
